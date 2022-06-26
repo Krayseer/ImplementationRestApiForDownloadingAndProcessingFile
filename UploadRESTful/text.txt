@@ -1,0 +1,83 @@
+#Music Artists
+##Jazz
+Gregory Porter
+Aaron Neville
+Pat Metheny
+##Rap
+Kanye West
+Drake
+Eminem
+50 Cent
+2Pac
+##Pop
+Lady Gaga
+Adele
+Ed Sheeran
+The Weeknd
+#Artists
+Pablo Picasso
+Salvador Dali
+Claude Monet
+Leonardo Da Vinci
+#Eurovision-2019 participants
+##First Semifinal
+Cyprus
+Montenegro
+Finland
+Poland
+Slovenia
+Czech
+Hungary
+Belarus
+Serbia
+Belgium
+Georgia
+Australia
+Iceland
+Estonia
+Portugal
+Greece
+San Marino
+###Qualified for the final
+Cyprus
+Slovenia
+Czech
+Belorus
+Serbia
+Australia
+Iceland
+Estonia
+Greece
+San Marino
+##Second Semifinal
+Armenia
+Ireland
+Moldova
+Switzerland
+Latvia
+Romania
+Denmark
+Sweden
+Austria
+Croatia
+Malta
+Lithuania
+Russia
+Albania
+Norway
+Netherlands
+North Macedonia
+Azerbaijan
+###Qualified for the final
+Switzerland
+Denmark
+Sweden
+Malta
+Russia
+Albania
+Norway
+Netherlands
+North Macedonia
+Azerbaijan
+##Winner
+Netherlands
